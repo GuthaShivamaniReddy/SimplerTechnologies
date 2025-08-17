@@ -157,15 +157,6 @@ The sign-up form includes comprehensive validation. You can extend the validatio
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
-## 🤝 Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 **Built with ❤️ using React and Vite**
